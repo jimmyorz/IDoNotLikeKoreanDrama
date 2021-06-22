@@ -3,7 +3,7 @@
 
 本規則可以過濾掉 Netflix 網頁版首頁上顯示的韓劇
 
-https://raw.githubusercontent.com/jimmyorz/IDoNotLikeKoreanDrama/main/filters.txt
+https://raw.githubusercontent.com/jimmyorz/IDoNotLikeKoreanDrama/master/filters.txt
 
 
 # 回報 & 討論
