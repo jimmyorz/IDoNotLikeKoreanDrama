@@ -9,6 +9,8 @@ https://raw.githubusercontent.com/jimmyorz/IDoNotLikeKoreanDrama/master/filters.
 ## 如何安裝
 請參考
 
+[uBlock Origin](https://github.com/gorhill/uBlock/wiki/Filter-lists-from-around-the-web)
+
 [AdGuard for macOS](https://github.com/FutaGuard/FutaFilter/wiki/AdGuard-for-macOS)
 
 [AdGuard for Windows](https://github.com/FutaGuard/FutaFilter/wiki/AdGuard-for-Windows-%E8%A8%82%E9%96%B1%E6%96%B9%E5%BC%8F)
