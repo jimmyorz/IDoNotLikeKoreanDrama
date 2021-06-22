@@ -1,10 +1,10 @@
 [Adblock Plus]
 ! Title: I Do Not Like Korean Drama
-! Version: 2021.0623.02
+! Version: 2021.0623.03
 ! ----------------------------------------------------------------------
 ! 基本過濾結構
 ! netflix.com##a[href^="/watch/影片ID"]
-! 韓劇代碼81427756
+! 韓劇代碼 81427756
 ! https://www.netflix.com/browse/genre/81427756
 ! ----------------------------------------------------------------------
 netflix.com##a[href^="/watch/81435649"]
@@ -34,3 +34,4 @@ netflix.com##a[href^="/watch/81323200"]
 netflix.com##a[href^="/watch/81354739"]
 netflix.com##a[href^="/watch/81397897"]
 netflix.com##a[href^="/watch/81342504"]
+netflix.com##a[href^="/watch/81028895"]
