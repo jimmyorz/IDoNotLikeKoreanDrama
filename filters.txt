@@ -7,6 +7,9 @@
 ! 韓劇代碼 81427756
 ! https://www.netflix.com/browse/genre/81427756
 ! ----------------------------------------------------------------------
+! 阻擋首頁精選內容Banner，推送內容會與喜好度不符造成出現韓劇
+netflix.com##.volatile-billboard-animations-container
+! 韓劇規則
 netflix.com##a[href^="/watch/81473201"]
 netflix.com##a[href^="/watch/81435649"]
 netflix.com##a[href^="/watch/81430301"]
@@ -37,4 +40,3 @@ netflix.com##a[href^="/watch/80178427"]
 netflix.com##a[href^="/watch/80176842"]
 netflix.com##a[href^="/watch/80168068"]
 netflix.com##a[href^="/watch/80165487"]
-
