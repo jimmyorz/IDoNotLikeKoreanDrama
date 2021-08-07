@@ -26,7 +26,7 @@ https://t.me/adguard_tw
 
 ## Netflix 1080p 擴充套件
 * Chrome
-https://github.com/jangxx/netflix-1080p
+https://github.com/truedread/netflix-1080p / https://github.com/jangxx/netflix-1080p
 * Firefox
 https://github.com/TheGoddessInari/netflix-1080p-firefox
 * Edge
