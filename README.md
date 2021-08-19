@@ -5,6 +5,11 @@
 
 https://raw.githubusercontent.com/jimmyorz/IDoNotLikeKoreanDrama/master/filters.txt
 
+## I Do Not Like China Drama 
+本規則佛系更新。 \
+原則上以我看不順眼的肥豬流、類韓劇或是出現在排行榜的優先更新 \
+https://raw.githubusercontent.com/jimmyorz/IDoNotLikeKoreanDrama/master/filters_china.txt
+
 
 ## 如何安裝
 請參考
