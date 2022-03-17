@@ -6,8 +6,10 @@
 https://raw.githubusercontent.com/jimmyorz/IDoNotLikeKoreanDrama/master/filters.txt
 
 ## I Do Not Like China Drama 
-本規則佛系更新。 \
-原則上以我看不順眼的肥豬流、類韓劇或是出現在排行榜的優先更新 \
+本規則佛系更新 
+
+原則上以我看不順眼的肥豬流、類韓劇或是出現在排行榜的優先更新 
+
 https://raw.githubusercontent.com/jimmyorz/IDoNotLikeKoreanDrama/master/filters_china.txt
 
 
@@ -26,7 +28,7 @@ https://raw.githubusercontent.com/jimmyorz/IDoNotLikeKoreanDrama/master/filters_
 
 或至 Telegram 群組回報
 
-https://t.me/adguard_tw
+https://t.me/AdBlock_TW
 
 
 ## Netflix 1080p 擴充套件
