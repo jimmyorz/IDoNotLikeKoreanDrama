@@ -1,4 +1,3 @@
-
 [Adblock Plus]
 ! Title: I Do Not Like Taiwan Drama
 ! Version: 2022.0818.01
