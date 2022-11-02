@@ -1,11 +1,11 @@
 [Adblock Plus]
 ! Title: I Do Not Like Taiwan Drama
-! Version: 2022.1009.01
+! Version: 2022.1102.01
 ! ----------------------------------------------------------------------
 ! 基本過濾結構
 ! netflix.com##a[href^="/watch/影片ID"]
 ! 台劇代碼 81417804
-! https://www.netflix.com/browse/genre/2199564
+! https://www.netflix.com/browse/genre/81417804
 ! 佛系更新。原則上以肥豬流、類韓劇或是出現在排行榜的優先更新
 ! ----------------------------------------------------------------------
 ! 台劇劇規則
