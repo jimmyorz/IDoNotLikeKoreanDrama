@@ -1,14 +1,18 @@
 [Adblock Plus]
 ! Title: I Do Not Like China Drama
-! Version: 2022.1225.01
+! Version: 2023.0125.01
 ! ----------------------------------------------------------------------
 ! 基本過濾結構
 ! netflix.com##a[href^="/watch/影片ID"]
 ! 中國劇代碼 2199564
 ! https://www.netflix.com/browse/genre/2199564
-! 佛系更新。原則上以肥豬流、類韓劇或是出現在排行榜的優先更新
+! 佛系更新。原則上以肥豬流、類韓劇、中國動畫或是出現在排行榜的優先更新
 ! ----------------------------------------------------------------------
 ! 中國劇規則
+netflix.com##a[href^="/watch/81648330"]
+netflix.com##a[href^="/watch/81648290"]
+netflix.com##a[href^="/watch/81648250"]
+netflix.com##a[href^="/watch/81648185"]
 netflix.com##a[href^="/watch/81633699"]
 netflix.com##a[href^="/watch/81631996"]
 netflix.com##a[href^="/watch/81631283"]
@@ -33,5 +37,8 @@ netflix.com##a[href^="/watch/81504698"]
 netflix.com##a[href^="/watch/81493147"]
 netflix.com##a[href^="/watch/81452916"]
 netflix.com##a[href^="/watch/81400646"]
+netflix.com##a[href^="/watch/81364944"]
+netflix.com##a[href^="/watch/81364887"]
 netflix.com##a[href^="/watch/81305296"]
+netflix.com##a[href^="/watch/81156880"]
 netflix.com##a[href^="/watch/80237337"]
