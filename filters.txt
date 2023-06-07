@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: I Do Not Like Korean Drama
-! Version: 2023.0518.01
+! Version: 2023.0607.01
 ! ----------------------------------------------------------------------
 ! 基本過濾結構
 ! netflix.com##a[href^="/watch/影片ID"]
@@ -15,7 +15,10 @@ netflix.com##.billboard-row
 netflix.com##.mosaicRow
 ! 韓劇規則
 netflix.com##a[href^="/watch/81682438"]
+netflix.com##a[href^="/watch/81672245"]
 netflix.com##a[href^="/watch/81671939"]
+netflix.com##a[href^="/watch/81671440"]
+netflix.com##a[href^="/watch/81671426"]
 netflix.com##a[href^="/watch/81669775"]
 netflix.com##a[href^="/watch/81666652"]
 netflix.com##a[href^="/watch/81653386"]
@@ -31,8 +34,9 @@ netflix.com##a[href^="/watch/81610895"]
 netflix.com##a[href^="/watch/81610893"]
 netflix.com##a[href^="/watch/81610166"]
 netflix.com##a[href^="/watch/81609154"]
-netflix.com##a[href^="/watch/81594875"]
+netflix.com##a[href^="/watch/81595046"]
 netflix.com##a[href^="/watch/81594904"]
+netflix.com##a[href^="/watch/81594875"]
 netflix.com##a[href^="/watch/81587446"]
 netflix.com##a[href^="/watch/81581005"]
 netflix.com##a[href^="/watch/81572801"]
@@ -95,6 +99,7 @@ netflix.com##a[href^="/watch/81397897"]
 netflix.com##a[href^="/watch/81394495"]
 netflix.com##a[href^="/watch/81365087"]
 netflix.com##a[href^="/watch/81362748"]
+netflix.com##a[href^="/watch/81361096"]
 netflix.com##a[href^="/watch/81357304"]
 netflix.com##a[href^="/watch/81357286"]
 netflix.com##a[href^="/watch/81357268"]
