@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: I Do Not Like China Drama
-! Version: 2023.0509.01
+! Version: 2023.0608.01
 ! ----------------------------------------------------------------------
 ! 基本過濾結構
 ! netflix.com##a[href^="/watch/影片ID"]
@@ -13,6 +13,7 @@ netflix.com##a[href^="/watch/81689795"]
 netflix.com##a[href^="/watch/81686385"]
 netflix.com##a[href^="/watch/81681028"]
 netflix.com##a[href^="/watch/81678334"]
+netflix.com##a[href^="/watch/81678293"]
 netflix.com##a[href^="/watch/81678166"]
 netflix.com##a[href^="/watch/81666107"]
 netflix.com##a[href^="/watch/81648330"]
