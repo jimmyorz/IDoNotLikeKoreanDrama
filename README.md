@@ -11,12 +11,14 @@
 
 https://raw.githubusercontent.com/jimmyorz/IDoNotLikeKoreanDrama/master/filters.txt
 
-## I Do Not Like China Drama 
-本規則佛系更新 
+## I Do Not Like China/Taiwan Drama 
+佛系更新 
 
-原則上以肥豬流、類韓劇、中國動畫或是出現在排行榜的優先更新
+原則上以嘔像劇、類韓劇或是出現在排行榜的優先更新
 
 https://raw.githubusercontent.com/jimmyorz/IDoNotLikeKoreanDrama/master/filters_china.txt
+
+https://raw.githubusercontent.com/jimmyorz/IDoNotLikeKoreanDrama/master/filters_taiwan.txt
 
 
 ## 如何安裝
