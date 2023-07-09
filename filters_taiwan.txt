@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: I Do Not Like Taiwan Drama
-! Version: 2023.0625.01
+! Version: 2023.0709.01
 ! ----------------------------------------------------------------------
 ! 基本過濾結構
 ! netflix.com##a[href^="/watch/影片ID"]
@@ -9,6 +9,7 @@
 ! 佛系更新。原則上以肥豬流、類韓劇或是出現在排行榜的優先更新
 ! ----------------------------------------------------------------------
 ! 台劇劇規則
+netflix.com##a[href^="/watch/81702995"]
 netflix.com##a[href^="/watch/81701078"]
 netflix.com##a[href^="/watch/81662482"]
 netflix.com##a[href^="/watch/81650467"]
