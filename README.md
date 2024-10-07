@@ -41,7 +41,7 @@ https://t.me/AdBlock_TW
 
 ## Netflix 1080p 擴充套件
 * Chrome
-https://github.com/truedread/netflix-1080p / https://github.com/jangxx/netflix-1080p
+https://github.com/truedread/netflix-1080p / https://github.com/jangxx/netflix-1080p (目前用這個)
 * Firefox
 https://github.com/TheGoddessInari/netflix-1080p-firefox
 * Edge
