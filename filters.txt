@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: I Do Not Like Korean Drama
-! Version: 2025.0328.01
+! Version: 2025.0409.01
 ! ----------------------------------------------------------------------
 ! 基本過濾結構
 ! netflix.com##a[href^="/watch/影片ID"]
@@ -14,6 +14,7 @@ netflix.com##.billboard-row
 ! 阻擋 2022.11.04 新版首頁精選
 netflix.com##.mosaicRow
 ! 韓劇規則
+netflix.com##a[href^="/watch/82036243"]
 netflix.com##a[href^="/watch/81972394"]
 netflix.com##a[href^="/watch/81970550"]
 netflix.com##a[href^="/watch/81943794"]
@@ -44,6 +45,7 @@ netflix.com##a[href^="/watch/81719583"]
 netflix.com##a[href^="/watch/81716080"]
 netflix.com##a[href^="/watch/81708925"]
 netflix.com##a[href^="/watch/81707950"]
+netflix.com##a[href^="/watch/81703410"]
 netflix.com##a[href^="/watch/81702144"]
 netflix.com##a[href^="/watch/81701142"]
 netflix.com##a[href^="/watch/81701128"]
